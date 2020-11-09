@@ -1,4 +1,3 @@
----
 collector:
   service:
     services-where: Name='Windows Exporter'
